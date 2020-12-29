@@ -1,0 +1,206 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Rabidarun",
+            "src_img1": "./assets/img/rapidarun1.jpg",
+            "src_img2": "./assets/img/rapidarun2.jpg",
+            "price": "60",
+            "discounts": 0,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+                37,
+                39,
+                40,
+                41,
+                42
+            ]
+        },
+        {
+            "name": "NMD R1 v2",
+            "src_img1": "./assets/img/NMDR1V2_1.jpg",
+            "src_img2": "./assets/img/NMDR1V2_2.jpg",
+            "price": "160",
+            "discounts": "10",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+                37,
+                39,
+                40,
+                41,
+                42
+            ],
+            "id": "2"
+        },
+        {
+            "name": "ZK 2K",
+            "src_img1": "./assets/img/ZK2K_1.jpg",
+            "src_img2": "./assets/img/ZK2K_2.jpg",
+            "price": "60",
+            "discounts": "30",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+                37,
+                39,
+                40,
+                41,
+                42
+            ],
+            "id": "3"
+        },
+        {
+            "id": "4",
+            "name": "Ultra Boots 2020",
+            "src_img1": "./assets/img/UB2020_1.jpg",
+            "src_img2": "./assets/img/UB2020_2.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "5",
+            "name": "X90004D",
+            "src_img1": "./assets/img/X90004D_1.jpg",
+            "src_img2": "./assets/img/X90004D_2.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "6",
+            "name": "Super Star 2020",
+            "src_img1": "./assets/img/SS2020_2.jpg",
+            "src_img2": "./assets/img/SS2020_1.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "7",
+            "name": "Tokio Solor HM",
+            "src_img1": "./assets/img/TOKIO_2.jpg",
+            "src_img2": "./assets/img/TOKIO_1.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "8",
+            "name": "Alphatorison Boots",
+            "src_img1": "./assets/img/Alpha_2.jpg",
+            "src_img2": "./assets/img/Alpha_1.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "9",
+            "name": "DAY JOGGERS",
+            "src_img1": "./assets/img/DAY_1.jpg",
+            "src_img2": "./assets/img/DAY_2.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "10",
+            "name": "JUNG 96",
+            "src_img1": "./assets/img/JUNG_2.jpg",
+            "src_img2": "./assets/img/JUNG_1.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "11",
+            "name": "Nite Jogger",
+            "src_img1": "./assets/img/Nite_2.jpg",
+            "src_img2": "./assets/img/Nite_1.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "id": "12",
+            "name": "Nike Air-Zoom",
+            "src_img1": "./assets/img/nikezoom1.jpg",
+            "src_img2": "./assets/img/nikezoom2.jpg",
+            "price": 60,
+            "discounts": 30,
+            "count": 1,
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "sizes": [
+              37,
+              39,
+              40,
+              41,
+              42
+            ]
+          }
+    ]
+}

@@ -1,0 +1,138 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    background: #dce6eb;
+}
+input + label {
+    margin: 0.4em;
+}
+button {
+    outline: none;
+}
+li {
+    list-style: none;
+}
+.wrapper {
+    max-width: 1600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.panel__list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+@media screen and (max-width: 920px) {
+    .panel__list {
+        flex-flow: column;
+   }
+}
+@media screen and (max-width: 1340px) {
+    .panel__list {
+        justify-content: flex-start;
+        align-content: stretch;
+   }
+}
+.panel {
+    display: flex;
+    flex-flow: row;
+    background: #fff;
+    border-radius: 0.4em;
+    padding: 1.3em;
+    -webkit-box-shadow: -1px 5px 18px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 18px -7px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 5px 18px -7px rgba(0, 0, 0, 0.75);
+    flex-basis: 33%;
+    margin: 0.5em;
+}
+@media screen and (max-width: 1340px) {
+    .panel {
+        flex-basis: 49%;
+        margin: 0.2em;
+   }
+}
+@media screen and (max-width: 600px) {
+    .panel {
+        flex-flow: row wrap;
+   }
+}
+.panel__img {
+    flex-basis: 15%;
+}
+@media screen and (max-width: 600px) {
+    .panel__img {
+        flex-basis: 100%;
+   }
+}
+.panel img {
+    width: 150px;
+    height: 150px;
+    background: #dce6eb;
+}
+@media screen and (max-width: 600px) {
+    .panel img {
+        width: 100%;
+   }
+}
+.panel__content {
+    flex-basis: 100%;
+    padding: 0 1.2em;
+}
+@media screen and (max-width: 600px) {
+    .panel__content {
+        padding: 0.8em 0 0;
+   }
+}
+.panel__content--header h2 {
+    color: #565656;
+}
+.panel__content--header p {
+    padding-top: 0.4em;
+    color: #757575;
+}
+.panel__content--options {
+    display: flex;
+    flex-direction: column;
+    color: #565656;
+}
+.checkboxes {
+    display: flex;
+}
+.panel__content--action {
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-0.6em);
+}
+.checkboxes:not(:last-child) {
+    padding-bottom: 0.5em;
+}
+.panel__content .item {
+    padding-bottom: 1em;
+}
+.price {
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #ffde00;
+    align-self: flex-start;
+}
+.btn__add-to-cart {
+    padding: 0.6em 2em;
+    border-radius: 4em;
+    background: #5c798a;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    align-self: flex-end;
+}
+button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    font-family: inherit;
+    font-size: 1em;
+    cursor: pointer;
+}
